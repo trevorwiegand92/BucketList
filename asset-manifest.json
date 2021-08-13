@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/trevorwiegand92/BucketList.git/static/js/main.eff94b31.chunk.js",
-    "main.js.map": "/trevorwiegand92/BucketList.git/static/js/main.eff94b31.chunk.js.map",
-    "runtime-main.js": "/trevorwiegand92/BucketList.git/static/js/runtime-main.64f7b957.js",
-    "runtime-main.js.map": "/trevorwiegand92/BucketList.git/static/js/runtime-main.64f7b957.js.map",
-    "static/js/2.6ef04119.chunk.js": "/trevorwiegand92/BucketList.git/static/js/2.6ef04119.chunk.js",
-    "static/js/2.6ef04119.chunk.js.map": "/trevorwiegand92/BucketList.git/static/js/2.6ef04119.chunk.js.map",
-    "index.html": "/trevorwiegand92/BucketList.git/index.html",
-    "static/js/2.6ef04119.chunk.js.LICENSE.txt": "/trevorwiegand92/BucketList.git/static/js/2.6ef04119.chunk.js.LICENSE.txt"
+    "main.js": "/BucketList/static/js/main.eff94b31.chunk.js",
+    "main.js.map": "/BucketList/static/js/main.eff94b31.chunk.js.map",
+    "runtime-main.js": "/BucketList/static/js/runtime-main.2beee7ac.js",
+    "runtime-main.js.map": "/BucketList/static/js/runtime-main.2beee7ac.js.map",
+    "static/js/2.6ef04119.chunk.js": "/BucketList/static/js/2.6ef04119.chunk.js",
+    "static/js/2.6ef04119.chunk.js.map": "/BucketList/static/js/2.6ef04119.chunk.js.map",
+    "index.html": "/BucketList/index.html",
+    "static/js/2.6ef04119.chunk.js.LICENSE.txt": "/BucketList/static/js/2.6ef04119.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.64f7b957.js",
+    "static/js/runtime-main.2beee7ac.js",
     "static/js/2.6ef04119.chunk.js",
     "static/js/main.eff94b31.chunk.js"
   ]
